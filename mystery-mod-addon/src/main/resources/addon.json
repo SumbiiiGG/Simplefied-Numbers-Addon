@@ -1,0 +1,7 @@
+{
+  "name" : "Simplified-Numbers",
+  "version" : "1.0.0",
+  "description" : "Vereinfachte eingabe von Zahlen! \n 1000 --> 1k  und 1000000 --> 1m oder 1mio \n Beispiel /pay Spieler 1k oder /bank abheben 1,4mio",
+  "authors"  : ["Sumbora"],
+  "mainClass" : "me.simpleNumbers.SimpleNumbersAddon"
+}
